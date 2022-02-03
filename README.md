@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Lorem ipsum dolor sit amet.
+
+[Click me](http://www.google.com){: .btn}
