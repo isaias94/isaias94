@@ -1,82 +1,83 @@
-<h1 align="center">
-  👋 Hola, soy Isaias Gonzalez
-</h1>
+<h1 align="center">🔥 Isaias Gonzalez</h1>
 
-<h4 align="center">
-  Desarrollador Full Stack con más de 10 años de experiencia
-</h4>
+<p align="center">
+  💻 Full Stack Developer &nbsp;|&nbsp; ⚡ +10 años de experiencia &nbsp;|&nbsp; 🇨🇱 Chile
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Laravel-red?style=for-the-badge&logo=laravel">
+  <img src="https://img.shields.io/badge/JS-React-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Python-Backend-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Database-SQL-green?style=for-the-badge&logo=postgresql">
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy desarrollador con más de una década de experiencia construyendo soluciones web escalables y eficientes.  
-Me especializo en el desarrollo backend robusto y frontend moderno, integrando tecnologías actuales para crear productos funcionales y de alto rendimiento.
+Desarrollador Full Stack con más de 10 años de experiencia construyendo aplicaciones web reales, escalables y orientadas a negocio.
 
-A lo largo de mi carrera he trabajado en múltiples proyectos, desde sistemas administrativos hasta plataformas en tiempo real, siempre enfocado en la calidad del código y la experiencia del usuario.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-### 💻 Backend
-- PHP (Laravel, Lumen)
-- Python
-- APIs REST
-- Arquitectura de servicios
-
-### 🌐 Frontend
-- JavaScript (React)
-- HTML5 / CSS3
-- Diseño responsivo
-
-### 🗄️ Base de datos
-- MySQL
-- PostgreSQL
-- Diseño y optimización de queries
-
-### ⚙️ Otras habilidades
-- Git & control de versiones
-- Integración de sistemas
-- Desarrollo en tiempo real (Realtime apps)
-- Buenas prácticas y clean code
+Me especializo en backend sólido con **Laravel/Lumen**, frontend moderno con **React**, y sistemas conectados en tiempo real.
+He trabajado en sistemas administrativos, POS y soluciones que requieren rendimiento y estabilidad.
 
 ---
 
-## 📈 Experiencia
+## 🧠 Lo que sé hacer bien
 
-- +10 años desarrollando software
-- Experiencia en sistemas comerciales y administrativos
-- Implementación de soluciones en tiempo real
-- Integración de servicios externos y APIs
+✔️ Construir APIs robustas
+✔️ Diseñar bases de datos eficientes
+✔️ Crear interfaces rápidas y responsivas
+✔️ Implementar sistemas en tiempo real
+✔️ Optimizar rendimiento en frontend y backend
 
 ---
 
-## 🎯 En qué estoy enfocado
+## 🛠️ Stack principal
 
-Actualmente estoy trabajando en:
-- Sistemas POS (punto de venta)
-- Aplicaciones en tiempo real
-- Optimización de rendimiento en frontend/backend
-- Arquitecturas modernas y escalables
+```txt
+Backend:   PHP (Laravel, Lumen) | Python
+Frontend:  React | JavaScript | HTML | CSS
+Database:  MySQL | PostgreSQL
+Tools:     Git | APIs REST | Arquitectura de software
+```
+
+---
+
+## 🔥 Actualmente trabajando en
+
+* 🛒 Sistema POS con sincronización en tiempo real
+* ⚡ Optimización de rendimiento en React
+* 🔄 Arquitecturas escalables
+* 🌐 Integración de servicios externos
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical">
+</p>
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU-USUARIO
-- Email: TU-EMAIL
+<p align="center">
+  <a href="mailto:TU-EMAIL">
+    <img src="https://img.shields.io/badge/Email-contactame-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/TU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-perfil-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-## ⚡ Filosofía de trabajo
+## ⚡ Frase
 
-Me enfoco en construir software que:
-- Sea escalable
-- Sea mantenible
-- Resuelva problemas reales
-- Aporte valor al negocio
+> "El buen software no solo funciona, se mantiene en el tiempo."
 
 ---
 
-⭐ Si te interesa colaborar o tienes un proyecto, no dudes en contactarme.
+⭐ Siempre abierto a nuevos proyectos y desafíos.
