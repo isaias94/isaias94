@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/JS-React-blue?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/Python-Backend-yellow?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Database-SQL-green?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/Linux-CLI-black?style=for-the-badge&logo=linux">
 </p>
 
 ---
@@ -18,7 +20,7 @@
 Desarrollador Full Stack con más de 10 años de experiencia construyendo aplicaciones web reales, escalables y orientadas a negocio.
 
 Me especializo en backend sólido con **Laravel/Lumen**, frontend moderno con **React**, y sistemas conectados en tiempo real.
-He trabajado en sistemas administrativos, POS y soluciones que requieren rendimiento y estabilidad.
+También tengo experiencia trabajando con entornos Linux, despliegues vía SSH y uso de contenedores con Docker.
 
 ---
 
@@ -28,7 +30,8 @@ He trabajado en sistemas administrativos, POS y soluciones que requieren rendimi
 ✔️ Diseñar bases de datos eficientes
 ✔️ Crear interfaces rápidas y responsivas
 ✔️ Implementar sistemas en tiempo real
-✔️ Optimizar rendimiento en frontend y backend
+✔️ Desplegar y mantener aplicaciones en servidores Linux
+✔️ Manejo de contenedores con Docker
 
 ---
 
@@ -38,6 +41,7 @@ He trabajado en sistemas administrativos, POS y soluciones que requieren rendimi
 Backend:   PHP (Laravel, Lumen) | Python
 Frontend:  React | JavaScript | HTML | CSS
 Database:  MySQL | PostgreSQL
+DevOps:    Docker | Linux | SSH
 Tools:     Git | APIs REST | Arquitectura de software
 ```
 
@@ -47,27 +51,18 @@ Tools:     Git | APIs REST | Arquitectura de software
 
 * 🛒 Sistema POS con sincronización en tiempo real
 * ⚡ Optimización de rendimiento en React
-* 🔄 Arquitecturas escalables
+* 🐳 Contenerización de aplicaciones
 * 🌐 Integración de servicios externos
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical">
-</p>
 
 ---
 
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:TU-EMAIL">
+  <a href="mailto:igonzalezdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-contactame-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/TU-USUARIO">
+  <a href="https://github.com/isaias94">
     <img src="https://img.shields.io/badge/GitHub-perfil-black?style=for-the-badge&logo=github">
   </a>
 </p>
